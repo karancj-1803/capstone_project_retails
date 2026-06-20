@@ -1,0 +1,452 @@
+[
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-01",
+            "rates": {
+                "INR": 82.649,
+                "EUR": 0.8947,
+                "GBP": 0.8249
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-02",
+            "rates": {
+                "INR": 83.571,
+                "EUR": 0.8528,
+                "GBP": 0.7557
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-03",
+            "rates": {
+                "INR": 82.8131,
+                "EUR": 0.9392,
+                "GBP": 0.8359
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-04",
+            "rates": {
+                "INR": 83.308,
+                "EUR": 0.8682,
+                "GBP": 0.8406
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-05",
+            "rates": {
+                "INR": 84.0185,
+                "EUR": 0.9328,
+                "GBP": 0.8395
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-06",
+            "rates": {
+                "INR": 82.7958,
+                "EUR": 0.8514,
+                "GBP": 0.8367
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-07",
+            "rates": {
+                "INR": 82.1077,
+                "EUR": 0.9067,
+                "GBP": 0.7608
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-08",
+            "rates": {
+                "INR": 84.896,
+                "EUR": 0.8767,
+                "GBP": 0.8301
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-09",
+            "rates": {
+                "INR": 82.1163,
+                "EUR": 0.8882,
+                "GBP": 0.8205
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-10",
+            "rates": {
+                "INR": 85.2936,
+                "EUR": 0.8603,
+                "GBP": 0.8017
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-11",
+            "rates": {
+                "INR": 83.3512,
+                "EUR": 0.9243,
+                "GBP": 0.8011
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-12",
+            "rates": {
+                "INR": 84.1016,
+                "EUR": 0.8993,
+                "GBP": 0.8304
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-13",
+            "rates": {
+                "INR": 84.7149,
+                "EUR": 0.8723,
+                "GBP": 0.7744
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-14",
+            "rates": {
+                "INR": 84.3216,
+                "EUR": 0.8778,
+                "GBP": 0.7882
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-15",
+            "rates": {
+                "INR": 84.6391,
+                "EUR": 0.8741,
+                "GBP": 0.797
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-16",
+            "rates": {
+                "INR": 82.2489,
+                "EUR": 0.9163,
+                "GBP": 0.8337
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-17",
+            "rates": {
+                "INR": 83.1341,
+                "EUR": 0.907,
+                "GBP": 0.7655
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-18",
+            "rates": {
+                "INR": 83.0607,
+                "EUR": 0.9071,
+                "GBP": 0.7799
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-19",
+            "rates": {
+                "INR": 85.3284,
+                "EUR": 0.8686,
+                "GBP": 0.8147
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-20",
+            "rates": {
+                "INR": 82.2055,
+                "EUR": 0.8859,
+                "GBP": 0.8266
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-21",
+            "rates": {
+                "INR": 85.4344,
+                "EUR": 0.8632,
+                "GBP": 0.7964
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-22",
+            "rates": {
+                "INR": 82.868,
+                "EUR": 0.9209,
+                "GBP": 0.7576
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-23",
+            "rates": {
+                "INR": 83.2264,
+                "EUR": 0.9171,
+                "GBP": 0.8392
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-24",
+            "rates": {
+                "INR": 84.5836,
+                "EUR": 0.8567,
+                "GBP": 0.8472
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-25",
+            "rates": {
+                "INR": 83.5835,
+                "EUR": 0.9436,
+                "GBP": 0.7902
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-26",
+            "rates": {
+                "INR": 82.2374,
+                "EUR": 0.9147,
+                "GBP": 0.8396
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-27",
+            "rates": {
+                "INR": 85.7486,
+                "EUR": 0.889,
+                "GBP": 0.7569
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-28",
+            "rates": {
+                "INR": 85.5472,
+                "EUR": 0.9201,
+                "GBP": 0.7786
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-29",
+            "rates": {
+                "INR": 84.646,
+                "EUR": 0.8718,
+                "GBP": 0.8402
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "ExchangeRateService",
+            "api_version": "v1"
+        },
+        "data": {
+            "base_currency": "USD",
+            "rate_date": "2026-01-30",
+            "rates": {
+                "INR": 83.1919,
+                "EUR": 0.9024,
+                "GBP": 0.7919
+            }
+        }
+    }
+]
