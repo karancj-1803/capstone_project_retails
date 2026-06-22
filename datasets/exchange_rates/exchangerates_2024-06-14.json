@@ -1,0 +1,18 @@
+{
+  "base": "USD",
+  "date": "2024-06-14",
+  "timestamp": 1718323200,
+  "rates": {
+    "EUR": 0.922906,
+    "GBP": 0.788537,
+    "INR": 83.394239,
+    "JPY": 155.459805,
+    "AUD": 1.491438,
+    "CAD": 1.355231,
+    "SGD": 1.340478
+  },
+  "meta": {
+    "provider": "SimulatedFXRatesAPI",
+    "disclaimer": "Synthetic data generated for training purposes only."
+  }
+}
