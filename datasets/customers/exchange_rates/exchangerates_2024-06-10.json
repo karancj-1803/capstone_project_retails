@@ -1,0 +1,44 @@
+[
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "EUR",
+    "ExchangeRate": 0.915202,
+    "RateDate": "2024-06-10"
+  },
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "GBP",
+    "ExchangeRate": 0.792799,
+    "RateDate": "2024-06-10"
+  },
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "INR",
+    "ExchangeRate": 83.591387,
+    "RateDate": "2024-06-10"
+  },
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "JPY",
+    "ExchangeRate": 156.450865,
+    "RateDate": "2024-06-10"
+  },
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "AUD",
+    "ExchangeRate": 1.506563,
+    "RateDate": "2024-06-10"
+  },
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "CAD",
+    "ExchangeRate": 1.362144,
+    "RateDate": "2024-06-10"
+  },
+  {
+    "BaseCurrency": "USD",
+    "TargetCurrency": "SGD",
+    "ExchangeRate": 1.336231,
+    "RateDate": "2024-06-10"
+  }
+]
