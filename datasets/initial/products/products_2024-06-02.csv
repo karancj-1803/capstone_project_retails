@@ -1,0 +1,206 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice
+1,Pinecrest Smartphones Max 350,Electronics,Smartphones,Pinecrest,451.32
+2,Pinecrest Furniture Pro 792,Home & Kitchen,Furniture,Pinecrest,1141.01
+3,Crestline Beverages Plus 132,Grocery,Beverages,Crestline,879.2
+4,Vortex Smartphones Lite 617,Electronics,Smartphones,Vortex,719.59
+5,Solace Beverages Lite 833,Grocery,Beverages,Solace,189.75
+6,Vortex Snacks Plus 703,Grocery,Snacks,Vortex,189.73
+7,Orbital Men Lite 814,Apparel,Men,Orbital,72.53
+8,Quantum Outdoor Lite 320,Sports,Outdoor,Quantum,1039.81
+9,Zenith Men Plus 199,Apparel,Men,Zenith,722.53
+10,Crestline Kids Max 926,Apparel,Kids,Crestline,850.56
+11,Solace Cameras Pro 487,Electronics,Cameras,Solace,27.64
+12,Quantum Accessories Mini 733,Electronics,Accessories,Quantum,1163.98
+13,Pinecrest Women Pro 146,Apparel,Women,Pinecrest,999.43
+14,Zenith Decor Lite 987,Home & Kitchen,Decor,Zenith,257.17
+15,Quantum Cameras Plus 750,Electronics,Cameras,Quantum,220.64
+16,Nimbus Women Max 314,,Women,Nimbus,222.54
+17,Crestline Men Mini 275,Apparel,Men,Crestline,367.18
+18,Vortex Staples Lite 573,Grocery,Staples,Vortex,631.13
+19,Marvelo Outdoor Mini 670,Sports,Outdoor,Marvelo,520.04
+20,Orbital Decor Pro 334,Home & Kitchen,Decor,Orbital,351.6
+21,Hudson Audio Max 167,Electronics,Audio,Hudson,735.39
+22,Vortex Decor Mini 611,Home & Kitchen,Decor,Vortex,169.97
+23,BlueRidge Team Sports Lite 371,Sports,Team Sports,BlueRidge,352.7
+24,Pinecrest Furniture Classic 651,Home & Kitchen,Furniture,Pinecrest,441.54
+25,Crestline Footwear Plus 470,Apparel,Footwear,Crestline,548.92
+26,Solace Furniture Plus 193,Home & Kitchen,Furniture,Solace,942.86
+27,Northwind Smartphones Mini 263,Electronics,Smartphones,Northwind,242.01
+28,Zenith Team Sports Plus 490,Sports,Team Sports,Zenith,618.54
+29,Solace Snacks Max 666,Grocery,Snacks,Solace,712.12
+30,Marvelo Smartphones Classic 868,Electronics,Smartphones,Marvelo,58.6
+31,Zenith Kids Max 545,Apparel,Kids,Zenith,-730.23
+32,Acme Appliances Mini 996,Home & Kitchen,Appliances,Acme,207.12
+33,Solace Women Pro 991,Apparel,Women,Solace,80.87
+34,Northwind Women Max 880,Apparel,Women,Northwind,1138.82
+35,Crestline Cookware Max 600,Home & Kitchen,Cookware,Crestline,1158.86
+36,Nimbus Smartphones Max 345,Electronics,Smartphones,Nimbus,970.65
+37,Crestline Laptops Pro 187,Electronics,Laptops,Crestline,367.62
+38,Orbital Fitness Classic 884,Sports,Fitness,Orbital,119.91
+39,Marvelo Furniture Plus 662,Home & Kitchen,Furniture,Marvelo,822.03
+40,Solace Decor Classic 533,Home & Kitchen,Decor,Solace,529.86
+41,Pinecrest Furniture Max 508,Home & Kitchen,Furniture,Pinecrest,149.08
+42,Solace Footwear Plus 223,Apparel,Footwear,Solace,595.73
+43,Zenith Furniture Max 121,Home & Kitchen,Furniture,Zenith,44.16
+44,Vortex Staples Classic 325,Grocery,Staples,Vortex,1091.46
+45,Pinecrest Smartphones Mini 160,Electronics,Smartphones,Pinecrest,312.76
+46,Acme Cookware Max 172,Home & Kitchen,Cookware,Acme,796.04
+47,Quantum Beverages Mini 597,Grocery,Beverages,Quantum,376.12
+48,Pinecrest Furniture Classic 690,Home & Kitchen,Furniture,Pinecrest,625.52
+49,Orbital Fitness Plus 926,Sports,Fitness,Orbital,657.41
+50,Zenith Fitness Pro 774,Sports,Fitness,Zenith,224.27
+51,Hudson Outdoor Plus 578,Sports,Outdoor,Hudson,1163.59
+52,Acme Smartphones Plus 845,Electronics,Smartphones,Acme,930.83
+53,Vortex Men Lite 294,Apparel,Men,Vortex,1127.58
+54,Northwind Snacks Plus 287,Grocery,Snacks,Northwind,1074.11
+55,Vortex Footwear Pro 553,Apparel,Footwear,Vortex,718.69
+56,Acme Beverages Mini 653,Grocery,Beverages,Acme,1106.48
+57,Orbital Smartphones Lite 270,Electronics,Smartphones,Orbital,108.93
+58,BlueRidge Outdoor Lite 985,Sports,Outdoor,BlueRidge,237.59
+59,Northwind Fitness Plus 102,Sports,Fitness,Northwind,57.14
+60,Orbital Outdoor Plus 392,Sports,Outdoor,Orbital,392.42
+61,Pinecrest Team Sports Classic 777,Sports,Team Sports,Pinecrest,468.25
+62,Vortex Fitness Max 322,Sports,Fitness,Vortex,327.8
+63,Pinecrest Accessories Classic 162,Electronics,Accessories,Pinecrest,995.0
+64,Acme Men Classic 588,Apparel,Men,Acme,430.03
+65,Northwind Staples Pro 620,Grocery,Staples,Northwind,339.28
+66,Zenith Laptops Classic 169,Electronics,Laptops,Zenith,652.61
+67,Zenith Appliances Classic 352,Home & Kitchen,Appliances,Zenith,171.69
+68,Acme Staples Classic 183,Grocery,Staples,Acme,963.23
+69,Crestline Team Sports Classic 635,Sports,Team Sports,Crestline,92.24
+70,Vortex Kids Mini 833,,Kids,Vortex,1184.3
+71,Quantum Women Plus 234,Apparel,Women,Quantum,927.38
+72,Nimbus Footwear Pro 109,Apparel,Footwear,Nimbus,240.86
+73,Crestline Team Sports Pro 175,Sports,Team Sports,Crestline,9.61
+74,Solace Beverages Max 235,Grocery,Beverages,Solace,979.11
+75,Vortex Men Max 391,Apparel,Men,Vortex,849.11
+76,Solace Appliances Mini 409,Home & Kitchen,Appliances,Solace,875.62
+77,Solace Staples Pro 783,Grocery,Staples,Solace,926.21
+78,Marvelo Snacks Pro 999,Grocery,Snacks,Marvelo,91.63
+79,Zenith Decor Pro 860,Home & Kitchen,Decor,Zenith,432.08
+80,Quantum Beverages Max 719,Grocery,Beverages,Quantum,141.7
+81,Vortex Decor Mini 749,Home & Kitchen,Decor,Vortex,1036.13
+82,Quantum Footwear Pro 194,Apparel,Footwear,Quantum,749.09
+83,Acme Outdoor Pro 441,Sports,Outdoor,Acme,399.08
+84,Northwind Decor Mini 552,Home & Kitchen,Decor,Northwind,79.08
+85,Hudson Staples Classic 109,Grocery,Staples,Hudson,375.25
+86,Pinecrest Smartphones Lite 658,Electronics,Smartphones,Pinecrest,392.24
+87,Crestline Audio Classic 251,Electronics,Audio,Crestline,876.34
+88,Acme Fitness Max 473,Sports,Fitness,Acme,766.16
+89,Vortex Audio Mini 355,Electronics,Audio,Vortex,1064.99
+90,Orbital Audio Classic 995,Electronics,Audio,Orbital,568.24
+91,Pinecrest Team Sports Lite 342,Sports,Team Sports,Pinecrest,146.15
+92,Hudson Furniture Pro 283,Home & Kitchen,Furniture,Hudson,856.75
+93,Orbital Footwear Mini 984,Apparel,Footwear,Orbital,913.66
+94,Northwind Decor Mini 210,Home & Kitchen,Decor,Northwind,674.85
+95,BlueRidge Fitness Lite 304,Sports,Fitness,BlueRidge,925.85
+96,,Sports,Outdoor,Quantum,594.07
+97,Hudson Laptops Max 385,Electronics,Laptops,Hudson,628.71
+98,Nimbus Audio Mini 621,Electronics,Audio,Nimbus,514.77
+99,Solace Team Sports Max 128,Sports,Team Sports,Solace,33.43
+100,Northwind Audio Classic 371,Electronics,Audio,Northwind,132.15
+101,Crestline Smartphones Plus 453,Electronics,Smartphones,Crestline,40.62
+102,Crestline Footwear Classic 218,Apparel,Footwear,Crestline,764.78
+103,Vortex Team Sports Max 145,Sports,Team Sports,Vortex,379.28
+104,Solace Fitness Classic 803,Sports,Fitness,Solace,611.76
+105,Hudson Decor Pro 780,Home & Kitchen,Decor,Hudson,1089.36
+106,Marvelo Kids Pro 837,Apparel,Kids,Marvelo,301.4
+107,Marvelo Kids Plus 434,Apparel,Kids,Marvelo,494.23
+108,Quantum Team Sports Classic 230,Sports,Team Sports,Quantum,907.39
+109,Marvelo Appliances Plus 793,Home & Kitchen,Appliances,Marvelo,276.87
+110,Hudson Decor Classic 953,Home & Kitchen,Decor,Hudson,95.14
+111,Quantum Audio Lite 540,Electronics,Audio,Quantum,349.83
+112,Marvelo Staples Max 576,Grocery,Staples,Marvelo,195.98
+113,Marvelo Outdoor Lite 623,Sports,Outdoor,Marvelo,1115.85
+114,Northwind Team Sports Mini 186,Sports,Team Sports,Northwind,970.32
+115,Zenith Kids Lite 788,Apparel,Kids,Zenith,761.18
+116,Orbital Women Lite 250,,Women,Orbital,1046.14
+117,Vortex Smartphones Plus 725,Electronics,Smartphones,Vortex,965.0
+118,Hudson Cameras Mini 689,Electronics,Cameras,Hudson,226.32
+119,BlueRidge Appliances Plus 349,Home & Kitchen,Appliances,BlueRidge,1071.39
+120,Orbital Cookware Pro 897,Home & Kitchen,Cookware,Orbital,648.59
+121,Northwind Fitness Mini 630,Sports,Fitness,Northwind,969.51
+122,Solace Fitness Lite 968,Sports,Fitness,Solace,1075.62
+123,Northwind Cameras Plus 783,Electronics,Cameras,Northwind,383.65
+124,Crestline Staples Max 873,Grocery,Staples,Crestline,134.73
+125,Pinecrest Team Sports Classic 536,Sports,Team Sports,Pinecrest,275.84
+126,Northwind Snacks Mini 982,Grocery,Snacks,Northwind,514.25
+127,Quantum Outdoor Lite 960,Sports,Outdoor,Quantum,982.16
+128,Marvelo Footwear Lite 381,Apparel,Footwear,Marvelo,1033.29
+129,Pinecrest Fitness Max 340,,Fitness,Pinecrest,11.32
+130,Nimbus Kids Classic 182,Apparel,Kids,Nimbus,614.36
+131,Vortex Furniture Plus 810,Home & Kitchen,Furniture,Vortex,502.64
+132,Zenith Furniture Plus 517,Home & Kitchen,Furniture,Zenith,268.86
+133,Hudson Footwear Pro 311,Apparel,Footwear,Hudson,146.48
+134,Orbital Outdoor Classic 812,Sports,Outdoor,Orbital,407.13
+135,Hudson Accessories Plus 106,Electronics,Accessories,Hudson,1131.66
+136,Orbital Kids Plus 973,Apparel,Kids,Orbital,389.87
+137,Pinecrest Team Sports Mini 659,Sports,Team Sports,Pinecrest,623.99
+138,BlueRidge Beverages Lite 379,Grocery,Beverages,BlueRidge,844.51
+139,Acme Outdoor Plus 444,Sports,Outdoor,Acme,438.26
+140,Northwind Team Sports Plus 230,Sports,Team Sports,Northwind,1166.22
+141,Acme Staples Plus 706,Grocery,Staples,Acme,1155.05
+142,Acme Staples Pro 758,Grocery,Staples,Acme,304.38
+143,BlueRidge Fitness Lite 151,Sports,Fitness,BlueRidge,598.21
+144,Nimbus Footwear Lite 565,Apparel,Footwear,Nimbus,363.15
+145,Orbital Kids Plus 384,Apparel,Kids,Orbital,343.95
+146,Zenith Outdoor Plus 119,Sports,Outdoor,Zenith,47.15
+147,Nimbus Beverages Lite 765,Grocery,Beverages,Nimbus,732.65
+148,Orbital Smartphones Pro 353,Electronics,Smartphones,Orbital,604.71
+149,Crestline Cookware Lite 344,Home & Kitchen,Cookware,Crestline,64.62
+150,Marvelo Appliances Pro 677,Home & Kitchen,Appliances,Marvelo,336.54
+151,Pinecrest Appliances Max 885,Home & Kitchen,Appliances,Pinecrest,1090.19
+152,Crestline Women Classic 865,Apparel,Women,Crestline,289.76
+153,Quantum Laptops Pro 692,Electronics,Laptops,Quantum,176.44
+154,Crestline Audio Mini 484,Electronics,Audio,Crestline,588.87
+155,Vortex Team Sports Pro 706,Sports,Team Sports,Vortex,1182.82
+156,Pinecrest Cookware Max 970,Home & Kitchen,Cookware,Pinecrest,292.74
+157,Orbital Beverages Classic 901,Grocery,Beverages,Orbital,807.55
+158,Solace Audio Plus 777,Electronics,Audio,Solace,914.66
+159,Solace Men Mini 449,,Men,Solace,287.45
+160,BlueRidge Cameras Pro 543,Electronics,Cameras,BlueRidge,874.67
+161,Pinecrest Footwear Lite 545,Apparel,Footwear,Pinecrest,443.24
+162,Crestline Decor Classic 893,Home & Kitchen,Decor,Crestline,759.87
+163,Hudson Outdoor Mini 706,Sports,Outdoor,Hudson,761.34
+164,Vortex Kids Pro 385,Apparel,Kids,Vortex,644.32
+165,Orbital Fitness Plus 683,Sports,Fitness,Orbital,111.08
+166,Hudson Staples Max 129,Grocery,Staples,Hudson,1002.86
+167,Northwind Outdoor Plus 317,Sports,Outdoor,Northwind,386.97
+168,Nimbus Kids Max 710,Apparel,Kids,Nimbus,226.26
+169,Solace Men Lite 187,Apparel,Men,Solace,51.81
+170,BlueRidge Appliances Classic 876,Home & Kitchen,Appliances,BlueRidge,710.3
+171,Marvelo Appliances Mini 602,Home & Kitchen,Appliances,Marvelo,-814.04
+172,Zenith Fitness Max 326,Sports,Fitness,Zenith,22.86
+173,Vortex Team Sports Max 779,Sports,Team Sports,Vortex,615.98
+174,BlueRidge Snacks Classic 643,Grocery,Snacks,BlueRidge,274.12
+175,Pinecrest Footwear Classic 438,Apparel,Footwear,Pinecrest,775.27
+176,Quantum Footwear Max 357,Apparel,Footwear,Quantum,211.72
+177,Pinecrest Cookware Lite 423,Home & Kitchen,Cookware,Pinecrest,830.05
+178,Orbital Accessories Mini 289,Electronics,Accessories,Orbital,465.92
+179,Pinecrest Furniture Plus 383,Home & Kitchen,Furniture,Pinecrest,1124.27
+180,Crestline Staples Max 202,Grocery,Staples,Crestline,167.61
+181,Vortex Decor Max 283,Home & Kitchen,Decor,Vortex,411.26
+182,Pinecrest Men Classic 229,Apparel,Men,Pinecrest,138.83
+183,Acme Men Classic 399,Apparel,Men,Acme,1109.86
+184,Zenith Appliances Pro 687,Home & Kitchen,Appliances,Zenith,1053.18
+185,BlueRidge Footwear Plus 448,Apparel,Footwear,BlueRidge,311.76
+186,Quantum Cookware Plus 216,Home & Kitchen,Cookware,Quantum,793.0
+187,BlueRidge Cameras Pro 690,Electronics,Cameras,BlueRidge,981.21
+188,Northwind Laptops Classic 411,Electronics,Laptops,Northwind,667.58
+189,Zenith Laptops Classic 882,Electronics,Laptops,Zenith,636.99
+190,Crestline Team Sports Classic 331,Sports,Team Sports,Crestline,292.5
+191,BlueRidge Snacks Plus 404,Grocery,Snacks,BlueRidge,114.44
+192,Quantum Snacks Classic 735,Grocery,Snacks,Quantum,1076.97
+193,Pinecrest Accessories Pro 881,Electronics,Accessories,Pinecrest,1080.8
+194,Quantum Furniture Mini 183,Home & Kitchen,Furniture,Quantum,760.82
+195,Northwind Furniture Classic 176,Home & Kitchen,Furniture,Northwind,408.82
+196,Hudson Cookware Plus 805,Home & Kitchen,Cookware,Hudson,421.0
+197,Quantum Snacks Pro 337,Grocery,Snacks,Quantum,871.97
+198,Pinecrest Kids Plus 172,Apparel,Kids,Pinecrest,1076.84
+199,Orbital Decor Mini 703,Home & Kitchen,Decor,Orbital,1064.84
+200,Zenith Appliances Classic 330,Home & Kitchen,Appliances,Zenith,936.51
+57,Orbital Smartphones Lite 270,Electronics,Smartphones,Orbital,108.93
+38,Orbital Fitness Classic 884,Sports,Fitness,Orbital,119.91
+68,Acme Staples Classic 183,Grocery,Staples,Acme,963.23
+80,Quantum Beverages Max 719,Grocery,Beverages,Quantum,141.7
+81,Vortex Decor Mini 749,Home & Kitchen,Decor,Vortex,1036.13
